@@ -8,12 +8,12 @@ This is how the app works
 
 1 Ask the customers the ID of the product they would like to purchase.
 
-
+<img src="table.png">
 
 
 
 2 Ask the customers how many units of the products they would like.
-
+<img src="q_result.png">
 
 
 3 Display the result.
