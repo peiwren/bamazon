@@ -6,13 +6,13 @@ This Bamazon app is a CLI app. It will display all the available products for sa
 
 This is how the app works
 
-1 Ask the customers the ID of the product they would like to purchase.
+1 display all the available products for sale.
 
 <img src="table.png">
 
 
 
-2 Ask the customers how many units of the products they would like.
+2 Ask the customers the ID of the product they would like to purchase and how many units of the products they would like.
 <img src="q_result.png">
 
 
