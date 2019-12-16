@@ -16,4 +16,5 @@ This is how the app works
 <img src="q_result.png">
 
 
-3 Display the result.
+3 Update the SQL database to reflect the remaining quantiy .
+<img src="keepShopping.png">
